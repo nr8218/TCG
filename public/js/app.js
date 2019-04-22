@@ -1,0 +1,1 @@
+$(".canHide").hide();

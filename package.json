@@ -24,9 +24,11 @@
     "bcryptjs": "^2.4.3",
     "express": "^4.16.4",
     "hbs": "^4.0.4",
+    "jquery": "^3.4.0",
     "jsonwebtoken": "^8.4.0",
     "mongodb": "^3.1.10",
     "mongoose": "^5.3.16",
+    "path": "^0.12.7",
     "validator": "^10.9.0"
   }
 }
