@@ -1,0 +1,38 @@
+.header-container{
+    margin: 2.5% auto;
+    width: 80%;
+    height: 15%;
+    border-radius: 15px;
+}
+
+.header-col-2-h1 {
+    font-size: 1.5em;
+    font-weight: bolder;
+}
+
+.col-header-account-info {
+    text-align: right;
+    font-size: 1.25em;
+}
+.index-body-container{
+    padding: 2.5% 0 0 0;
+    width: 80%;
+    margin: 0 auto;
+    height: 400px;
+}
+
+.body-form-container{
+    background-color: lightblue;
+    margin: 2.5%, auto;
+    width: 80%;
+    height: 90%;
+    border-radius: 15px;
+}
+.body-form-container h2{
+    margin: auto;
+    text-align: center;
+}
+.body-form-container p{
+    margin: auto;
+    text-align: center;
+}
